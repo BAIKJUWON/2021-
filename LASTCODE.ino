@@ -3,10 +3,10 @@
 #include <SimpleTimer.h> //심플타이머 라이브러리
 #include <DHT11.h> //온습도센서 라이브러리
 
-#define FIREBASE_HOST "flowerpot-81f7e-default-rtdb.firebaseio.com"                     // 파이어베이스 데이터베이스 주소
-#define FIREBASE_AUTH "SQZ7BXhFvoD8XCI2BAxJ4QBgf7gudMPEs4LbIfv2"         // 파이어베이스 데이터베이스 비밀번호
+#define FIREBASE_HOST ""                                              // 파이어베이스 데이터베이스 주소
+#define FIREBASE_AUTH ""                                              // 파이어베이스 데이터베이스 비밀번호
 #define WIFI_SSID ""                                                  // 공유기 ID
-#define WIFI_PASSWORD ""
+#define WIFI_PASSWORD ""                                              // 공유기 
 
 int dht = 12; //D6번
 DHT11 dht11(dht);
