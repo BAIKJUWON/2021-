@@ -5,8 +5,8 @@
 
 #define FIREBASE_HOST "flowerpot-81f7e-default-rtdb.firebaseio.com"                     // 파이어베이스 데이터베이스 주소
 #define FIREBASE_AUTH "SQZ7BXhFvoD8XCI2BAxJ4QBgf7gudMPEs4LbIfv2"         // 파이어베이스 데이터베이스 비밀번호
-#define WIFI_SSID "1322"                                                  // 공유기 ID
-#define WIFI_PASSWORD "58774485"
+#define WIFI_SSID "WIFI ID"                                                  // 공유기 ID
+#define WIFI_PASSWORD "PASSWORD"
 
 int dht = 12; //D6번
 DHT11 dht11(dht);
