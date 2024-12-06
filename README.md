@@ -1,6 +1,3 @@
-
-> # __Team 고속버스의 작품 Doge 화분__
-> 
 # 소개
 **Doge 화분**은 현대인의 바쁜 생활 속에서 식물 관리의 부담을 덜어주는 혁신적인 스마트 화분입니다.  
 친환경적인 소재와 스마트 기술을 결합하여, 식물 관리가 필요 없는 새로운 개념의 화분을 제공합니다.  
@@ -9,6 +6,11 @@
 <img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/COIN.jpg?raw=True">
 <br>
 
+# 작품 구성
+**Doge 화분의 기능**
+1. 자동 물 공급 : 온습도센서를 사용하여 앱으로 물을 자동으로 줍니다.
+2. 환경 상태 모니터링 : 온도, 습도, 물의 양등을 데이터베이스와 연동하여 확인이 가능합니다.
+3. 앱 연동 : 스마트폰 앱을 통하여 화분의 상태를 원격으로 확인이 가능합니다.
 > __링크__
 - [앱](https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/flowerpot.apk)
 - [유투브](https://www.youtube.com/watch?v=P0Hf3BYsYAo)
