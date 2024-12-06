@@ -29,7 +29,7 @@
 
 ## 사용된 언어
 - **C++**: 아두이노 코드 작성
-- **Appinventer2**: 안드로이드 앱 개발
+- **MIT Appinventer2**: 안드로이드 앱 개발
 - **Firebase**: RealTimeDb 
 
 ## 사용된 라이브러리
@@ -40,6 +40,13 @@
 - **FirebaseESP8266**: 파이어베이스와 ESP8266을 연결하기 위한 라이브러리
 
 
+# 팀원
+
+- **백주원**: [GitHub 프로필](https://github.com/BAIKJUWON)  
+
+- **강민규**: [GitHub 프로필](https://github.com/KangMingyu0503)  
+
+ 
 # 링크
 - [앱](https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/flowerpot.apk)
 - [유투브](https://www.youtube.com/watch?v=P0Hf3BYsYAo)
