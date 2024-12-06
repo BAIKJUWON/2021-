@@ -24,7 +24,21 @@
   
 - 펌프
   <img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/%E1%84%91%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B3.png">
-<br>
+
+# 사용된 언어 및 라이브러리
+
+## 사용된 언어
+- **C++**: 아두이노 코드 작성
+- **Appinventer2**: 안드로이드 앱 개발
+- **Firebase**: RealTimeDb 
+
+## 사용된 라이브러리
+### 아두이노
+- **DHT11**: DHT11 센서를 이용한 온습도 측정
+- **ESP8266WIFI**: ESP8266 와이파이 연결을 위한 라이브러리
+- **SimpleTimer**: 루프 사용과 함수사용을 위한 라이브러리
+- **FirebaseESP8266**: 파이어베이스와 ESP8266을 연결하기 위한 라이브러리
+
 
 # 링크
 - [앱](https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/flowerpot.apk)
