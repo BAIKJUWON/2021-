@@ -11,6 +11,9 @@
 1. 자동 물 공급 : 온습도센서를 사용하여 앱으로 물을 자동으로 줍니다.
 2. 환경 상태 모니터링 : 온도, 습도, 물의 양등을 데이터베이스와 연동하여 확인이 가능합니다.
 3. 앱 연동 : 스마트폰 앱을 통하여 화분의 상태를 원격으로 확인이 가능합니다.
+<br>
+<img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/apk%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB.jpeg">
+<br>
 > __링크__
 - [앱](https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/flowerpot.apk)
 - [유투브](https://www.youtube.com/watch?v=P0Hf3BYsYAo)
