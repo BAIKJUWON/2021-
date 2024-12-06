@@ -14,7 +14,19 @@
 <br>
 <img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/apk%20%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB.jpeg">
 <br>
-> __링크__
+
+# 회로 연결 및 구성
+- 온습도 센서 연결
+  <img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%83%E1%85%A9.png">
+<br>
+- 계수센서
+  <img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/%E1%84%80%E1%85%A8%E1%84%89%E1%85%AE%E1%84%89%E1%85%A6%E1%86%AB%E1%84%89%E1%85%A5.png">
+<br>
+- 펌프
+  <img src = "https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/image/%E1%84%91%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B3.png">
+<br>
+
+# 링크
 - [앱](https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/flowerpot.apk)
 - [유투브](https://www.youtube.com/watch?v=P0Hf3BYsYAo)
 - [아두이노](https://github.com/BAIKJUWON/The-2nd-Daegu-Maker-Festa/blob/main/LASTCODE.ino)
